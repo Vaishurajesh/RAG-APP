@@ -1,0 +1,4 @@
+groq>=0.11.0
+streamlit>=1.38.0
+scikit-learn>=1.5.0
+python-dotenv
